@@ -1,6 +1,6 @@
 # ErlectricityApp
 
-**TODO: Add description**
+[Reference](https://blog.fazibear.me/elixir-ruby-dont-fight-talk-with-erlectricity-dbf3af67d999#.j7pnzwrfg)
 
 ## Installation
 
@@ -22,3 +22,8 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+ 3. Run following command to start
+
+   ```bash
+   iex -S mix
+   ```

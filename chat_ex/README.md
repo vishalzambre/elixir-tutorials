@@ -1,7 +1,7 @@
 # ChatEx
 
-**TODO: Add description**
-
+Chat Application with Ruby
+[Reference](https://blog.fazibear.me/elixir-ruby-dont-fight-talk-with-erlix-24b0f5ed8d12#.mpsvfqdk8)
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
@@ -22,3 +22,18 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+
+3. To run Elixir code use following command
+
+```bash
+elixir --sname elixir --cookie cookie  -S mix run
+```
+
+4. To run ruby
+
+```bash
+cd chat_rb
+```
+```bash
+ruby main.rb
+```
