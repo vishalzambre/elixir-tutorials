@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erlix (0.5.0a)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erlix
+
+BUNDLED WITH
+   1.13.6
